@@ -1,4 +1,4 @@
-#  
+#  smart Scripts for flee the facility is the best flee the facility Script, featuring auto-heal and auto-farm. Safe and powerful for all your needs.
 
 
 
